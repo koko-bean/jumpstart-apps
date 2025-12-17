@@ -30,7 +30,7 @@ spec:
     cosmos:
       container: "pos"
       database: "contoso"
-      endpoint: __cosmosEndpoint__
+      endpoint: 
     point_of_sale:
       title: "Contoso Supermarket"
       new_category: "True"
